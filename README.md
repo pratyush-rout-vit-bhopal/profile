@@ -1,4 +1,4 @@
-# profile
+# Profile
 Who I am? What do I hope to learn? What do I hope to contribute?
 Hi, I'm Pratyush 👋
 I'm Pratyush kumar rout, a B.Tech CSE (Core) student at VIT Bhopal (2025–2029).
